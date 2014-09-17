@@ -1,0 +1,32 @@
+{
+  "background": false,
+  "behavior": "application",
+  "version": "0.1",
+  "title": "Pdflint",
+  "name": "Pdflint",
+  "identifier": "com.koding.apps.pdflint",
+  "path": "~/Applications/Pdflint.kdapp",
+  "homepage": "archervmperidot.kd.io/pdflint",
+  "repository": "git://github.com/archervmperidot/pdflint.kdapp.git",
+  "description": "Pdflint : a Koding application created with the blank template.",
+  "category": "web-app",
+  "source": {
+    "blocks": {
+      "app": {
+        "files": [
+          "./index.coffee"
+        ]
+      }
+    },
+    "stylesheets": [
+      "./resources/style.css"
+    ]
+  },
+  "options": {
+    "type": "tab"
+  },
+  "icns": {
+    "128": "./resources/icon.128.png"
+  },
+  "fileTypes": []
+}

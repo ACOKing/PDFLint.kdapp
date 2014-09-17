@@ -1,0 +1,24 @@
+.pdflint.main-view {
+  background:red;
+}
+
+.pdflint .welcome-view {
+
+  background: green;
+
+  height: auto;
+  width: auto;
+  max-width: 300px;
+
+  margin: 50px auto;
+
+  border: 1px solid #ccc;
+  border-radius: 4px;
+
+  padding:10px;
+
+  text-align:center;
+  color: white;
+
+
+}
